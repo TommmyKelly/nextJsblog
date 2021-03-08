@@ -24,10 +24,9 @@ export const articles = [
   },
   {
     id: "4",
-    title: "Here is how to make your website more accessible",
-    excerpt:
-      "An accessible website is one that’s optimized for all people, including those with disabilities...",
+    title: "Test",
+    excerpt: "An accessible website ",
     body:
-      "There are many things to consider when setting up a website, and accessibility is one factor that can sometimes be overlooked. An accessible website is one that’s optimized for all people, including those with impaired vision or hearing, motor difficulties, or learning disabilities",
+      "An accessible website is one that’s optimized for all people, including those with impaired vision or hearing, motor difficulties, or learning disabilities",
   },
 ];
